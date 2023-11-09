@@ -1,11 +1,9 @@
 {
-  "usuarios": [
-    { 
+  "usuarios":  { 
       "id": 1,
       "nombre": "Juan Riquelme",
       "email": "Juanriquelme1@gmail.com",
-    }
-  ],
+    },
   "publicaciones": { 
       "titulo": "Bendecido dìa",
       "contenido": "Buenos dìas, espero les vaya muy bien",
